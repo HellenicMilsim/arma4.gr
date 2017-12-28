@@ -22,7 +22,7 @@ url: "https://arma4.gr" # the base hostname & protocol for your site, e.g. http:
 twitter_username: jekyllrb
 github_username:  hellenic-milsim
 
-forum: https://hellenic-milsim.community
+forum: http://hellenic-milsim.community
 
 # Build settings
 markdown: kramdown
